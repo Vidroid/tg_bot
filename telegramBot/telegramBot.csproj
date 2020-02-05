@@ -45,6 +45,8 @@
   <ItemGroup>
     <Compile Include="Controllers\SimpleMessageController.cs" />
     <Compile Include="Entities\Bot.cs" />
+    <Compile Include="Entities\Chat.cs" />
+    <Compile Include="Entities\Game.cs" />
     <Compile Include="ParametrResponse.cs" />
     <Compile Include="Router.cs" />
     <Compile Include="SimpleJSON.cs" />
