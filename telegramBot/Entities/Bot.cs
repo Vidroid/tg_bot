@@ -10,7 +10,7 @@ namespace telegramBot.Entities
         private static Chat chat;
 
         public int Bot_id { get; set; }
-        public int Chat_id { get; set; } = chat.Chat_id;
+        public int Chat_id { get; set { this.Chat_id = chat.Chat_id; } } 
         public string Owner_name { get; set; }
 
         public Bot(int bot_id, string owner)

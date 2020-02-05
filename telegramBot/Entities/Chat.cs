@@ -9,6 +9,6 @@ namespace telegramBot.Entities
     {
         private static Game game;
         public int Chat_id { get; set; }
-        private int Game_id { get; set; } = game.Game_id;
+        private int Game_id { get; set { this.Game_id = game.Game_id; } }
     }
 }
