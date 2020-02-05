@@ -3,3 +3,5 @@ C:\Users\Бот\documents\visual studio 2010\Projects\telegramBot\telegramBot\bi
 C:\Users\Бот\documents\visual studio 2010\Projects\telegramBot\telegramBot\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Бот\documents\visual studio 2010\Projects\telegramBot\telegramBot\obj\x86\Debug\telegramBot.exe
 C:\Users\Бот\documents\visual studio 2010\Projects\telegramBot\telegramBot\obj\x86\Debug\telegramBot.pdb
+D:\tg_bot\telegramBot\obj\x86\Debug\telegramBot.exe
+D:\tg_bot\telegramBot\obj\x86\Debug\telegramBot.pdb
