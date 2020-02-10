@@ -11,7 +11,7 @@ namespace telegramBot
     class TelegramMethods
     {
 
-        private string _token = "843645523:AAEfttRTr3fLocGP0wmT-V11PYFGC5Ro9qQ";
+        private string _token = "";
         private string _url = "https://api.telegram.org/bot";
         private int lastUpdateId = 0;
         public delegate void Response(object Sender, ParametrResponse e);
